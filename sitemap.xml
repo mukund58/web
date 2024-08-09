@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://blog.mukundis.me/</loc>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/about/</loc>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/blog/</loc>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/blog/creating-our-own-database/</loc>
+        <lastmod>2024-07-27</lastmod>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/blog/introduction-to-database-with-sql/</loc>
+        <lastmod>2024-06-08</lastmod>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/blog/relational-algebra/</loc>
+        <lastmod>2024-07-27</lastmod>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/blog/why-free-software-is-good/</loc>
+        <lastmod>2024-05-26</lastmod>
+    </url>
+    <url>
+        <loc>https://blog.mukundis.me/tags/</loc>
+    </url>
+</urlset>
